@@ -11,7 +11,7 @@ collections:
 email: wilson0205@gmail.com
 author: Wilson Tjandra
 description: Intelligent town.
-baseurl: ''
+baseurl: 
 url: http://ai.town
 date_format: "%b %-d, %Y"
 google_verification: 
